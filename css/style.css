@@ -94,7 +94,7 @@ h1,h2,h3 {
 /* ------------------header------------------*/
 
 header {
-  background: #4FB0D9;
+  background: #ffdacc;
 }
 
 .home_btn {
@@ -155,6 +155,7 @@ header {
   font-size: 48px;
   text-align: center;           /* 中央寄せ */
   padding-bottom: 10px;
+  font-family: Georgia;
 }
 
 .main p {
@@ -170,7 +171,7 @@ header {
   text-align:center;
   padding:8px 0 10px;
   color:#fff;
-  background-color:#FFAA5A;
+  background-color: #d8ffcc;
   border: 2px solid #fff;
   border-radius:30px;
   margin-right: auto;
@@ -180,7 +181,7 @@ header {
 /* ------------------2　どこまでできるか挑戦したい------------------*/
 
 .section2 { 
-  background-color: #4FB0D9;
+  background-color: #ffdacc;
   color: #FFFFFF;
 }
 
@@ -199,7 +200,7 @@ header {
 /* ------------------3　ジョブトレオンラインとは------------------*/
 
 .section3 { 
-  background-color: #FFFFFF;
+  background-color: #fff;
 }
 
 .SideBySide{
@@ -233,7 +234,7 @@ header {
 /* ------------------4　利用者の声------------------*/
 
 .section4 {
-  background-color: #D7EFF8;
+  background-color: #f1ffcc;
 }
 
 .section4 h2 {
