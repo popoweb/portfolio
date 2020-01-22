@@ -130,7 +130,7 @@ header {
 .section1 {
   height: 730px;
   color: white;
-  background-image: url(..index-bg01.png); /* 背景画像をCSSで表示する方法 */
+  background-image: url(index-bg01.png); /* 背景画像をCSSで表示する方法 */
   background-repeat: no-repeat;
   background-size: cover;
   margin-left: auto;
